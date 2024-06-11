@@ -1,4 +1,4 @@
 mysql:8.0.27
 redis:latest
 zookeeper:latest
-kafka:latest
+bitnami/kafka:latest
