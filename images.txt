@@ -1,3 +1,3 @@
 mysql:8.0.27
 redis:latest
-kafka:latest
+zookeeper:latest
